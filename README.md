@@ -1,25 +1,38 @@
-# Final Project and Deployment
+# Shuttle Booking Website
 
-## Objectives
-Build a fully functional web application.
-Apply HTML, CSS, and JavaScript concepts learned.
-Deploy the project using GitHub Pages, Netlify, or Vercel.
+This is a simple responsive shuttle booking website built with HTML, CSS, and JavaScript. It includes:
 
-## Instructions
-Choose one of the following project ideas:
-Blog Website: Implement a multi-page site with navigation.
-Ecommerce Website: Implement a multi-page site with navigation.
+- Home page with a hero section and service cards.
+- Booking form page for shuttle reservations.
+- About Us page.
+- Responsive navigation menu with a hamburger toggle.
 
->[!NOTE]
-> - Include at least:
-> - A responsive design.
-> - JavaScript interactivity.
-> - A deployment link.
+## 🧰 Technologies Used
+- HTML5
 
-## Tasks
+- CSS3 (Flexbox, Responsive Design)
 
-Create a well-structured HTML5 document.
-Use at least 5 different HTML elements.
-Ensure semantic correctness.
+- JavaScript (Form validation, navigation toggle)
 
-Good luck and happy coding! 🚀💻
+## 🚀 Live Preview
+
+To view the website in your browser:
+https://plp-webtechnologies.github.io/feb-2025-final-project-and-deployment-tshepocalvin/
+
+### Option 1: Open Locally
+
+1. Download or clone the repository.
+2. Open `index.html` in any modern web browser.
+
+```bash
+git clone https://github.com/PLP-WebTechnologies/feb-2025-final-project-and-deployment-tshepocalvin.git
+
+cd feb-2025-final-project-and-deployment-tshepocalvin
+open index.html    # macOS
+# OR
+start index.html   # Windows
+ ```
+
+ ## 📨 Contact
+
+Email: 
